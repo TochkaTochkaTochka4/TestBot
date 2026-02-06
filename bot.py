@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
 
 # Вставь сюда токен от BotFather
-TOKEN = 7960755516:AAHWipFJsTeMOzE3ZCs1aDVjNhbtzWl9Hvk
+TOKEN = "123456789:AAAbbbCCCdddEEEfffGGG"
 
 # Команда /start
 def start(update: Update, context: CallbackContext):
